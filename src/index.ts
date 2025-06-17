@@ -7,4 +7,4 @@ const myPlugin = registerPlugin<myPluginPlugin>('myPlugin', {
 });
 
 export * from './definitions';
-export { myPlugin };
+export default myPlugin;
