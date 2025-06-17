@@ -1,4 +1,4 @@
-package io.ionic.starter;  // Cambia con il package corretto del plugin
+package com.mycompany.plugins.example;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
